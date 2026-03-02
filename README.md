@@ -34,15 +34,19 @@ In construction development, the **construction loan draw process** is where mon
 
 ### Economic Impact
 
-On a single $1M draw at 6% annual interest:
-- **Each day of delay = $2,740 in unnecessary interest**
-- **13-day cycle = $35,620 in wasted interest per draw**
+**Operational Costs of the 13-Day Delay:**
+
+For a single $1M draw:
+- Construction project paused waiting for funds (equipment sitting idle, crews waiting)
+- Contractors can't pay subcontractors on time (cash flow disruption down the supply chain)
+- Developer pays out of pocket to keep work moving, then waits for reimbursement
 
 For a large developer managing 5 concurrent $100M projects with 10-15 draws each:
-- **Total annual cost: $1.8M - $2.7M in preventable interest**
-- **Plus 450-900 hours annually of team time spent on coordination** (worth $45-90K in labor)
+- **450-900 hours annually spent on draw coordination** (worth $45-90K in labor)
+- **Delays cascade:** Each day without funds = equipment costs, crew downtime, subcontractor payment delays
+- **Operational disruption:** Projects fall behind schedule, costs increase, cash flow tightens
 
-**Total waste per large developer: $2-3M per year**
+**Total waste per large developer: $500K-2M per year** (labor + operational disruptions)
 
 ### Where the Friction Actually Is
 
@@ -57,7 +61,7 @@ Research shows:
 It's not the bank's process that's slow. **It's vendor coordination.**
 
 Developers are juggling:
-- 50+ vendors submitting documents via email, WhatsApp, carrier pigeon
+- 50+ vendors submitting documents via email, WhatsApp, shared folders
 - No single source of truth (documents scattered across Gmail, shared folders, Slack)
 - Manual tracking (spreadsheets, often outdated)
 - Lots of back-and-forth (missing signatures, incomplete info, wrong forms)
@@ -271,8 +275,8 @@ Most tools are either:
 **Solution:** DrawVault flags missing documents automatically. Vendors can't submit incomplete forms.
 
 ### 2. High Willingness to Pay
-- Developers waste $2-3M/year on draw coordination
-- Saving $13K per draw + 20 hours of team time = $1,000-2,000/month WTP
+- Developers waste $500K-2M/year on draw coordination
+- Saving $45-90K annually in labor + operational efficiency = $1,000-2,000/month WTP
 - ROI: 6-month payback
 
 ### 3. Distribution Built-In
@@ -313,16 +317,7 @@ Most tools are either:
 - ✅ Trade-offs made consciously (MVP scope, MVP pricing)
 - ✅ Defensible moat (data advantage over time)
 - ✅ Scalability path (from 2-3 customers → 50+ → national)
-- ✅ Risk mitigation (hybrid approach: no-code validation before full build)
-
-### What I Did NOT Do
-
-- ❌ Didn't design a "perfect" product (MVP focuses on core)
-- ❌ Didn't build a working app (waste of time without customer validation)
-- ❌ Didn't try to solve for all real estate types (start with apartments, expand later)
-- ❌ Didn't try to go national (Austin-only MVP, then expand)
-
-**This is the discipline of a good PM:** Ruthless prioritization. Ship the core, learn from market, iterate.
+- ✅ Risk mitigation (validate problem before building product)
 
 ---
 
