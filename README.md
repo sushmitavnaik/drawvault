@@ -433,13 +433,6 @@ If I were to build this:
    - Partner with 2-3 brokers
    - Raise seed funding if metrics are strong
 
----
-
-## Resources & Links
-
-- **Interactive Prototype:** See links above in "Interactive Prototype" section
-- **Pitch Deck:** [Add link to investor pitch deck]
-- **Landing Page:** [Add link to landing page]
 
 ---
 
