@@ -161,9 +161,9 @@ Experience DrawVault from 3 different user perspectives:
 
 | User Type | Prototype Link | Flow Summary |
 |-----------|---|---|
-| **👷 Vendor** | [Start here →](https://www.figma.com/proto/XTC8J4t3K5trqody4UITAb/DrawVault-Prototype?node-id=1-2&t=P0P4vN2oS9e8Ab48-1) | Receive invite → Upload invoice & lien waiver → Submit → Done |
-| **👨‍💼 Developer** | [Start here →](https://www.figma.com/proto/XTC8J4t3K5trqody4UITAb/DrawVault-Prototype?node-id=38-55&t=P0P4vN2oS9e8Ab48-1) | Manage vendors → Send invites → Review submissions → Finalize → Submit to bank |
-| **🏦 Bank** | [Start here →](https://www.figma.com/proto/XTC8J4t3K5trqody4UITAb/DrawVault-Prototype?node-id=32-36&t=P0P4vN2oS9e8Ab48-1) | View pending draws → Review package → Approve → Release funds |
+| **👷 Vendor** | <a href="https://www.figma.com/proto/XTC8J4t3K5trqody4UITAb/DrawVault-Prototype?node-id=1-2&t=P0P4vN2oS9e8Ab48-1" target="_blank">Start here →</a> | Receive invite → Upload invoice & lien waiver → Submit → Done |
+| **👨‍💼 Developer** | <a href="https://www.figma.com/proto/XTC8J4t3K5trqody4UITAb/DrawVault-Prototype?node-id=38-55&t=P0P4vN2oS9e8Ab48-1" target="_blank">Start here →</a> | Manage vendors → Send invites → Review submissions → Finalize → Submit to bank |
+| **🏦 Bank** | <a href="https://www.figma.com/proto/XTC8J4t3K5trqody4UITAb/DrawVault-Prototype?node-id=32-36&t=P0P4vN2oS9e8Ab48-1" target="_blank">Start here →</a> | View pending draws → Review package → Approve → Release funds |
 
 **How to use:** Click any link above, then use the play button (▶️) to navigate through the flow. Each journey takes 2-3 minutes.
 
